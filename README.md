@@ -1,7 +1,7 @@
 # 💫 About Me:
 My name is Tyler Ervin and I am a Delaware native.
 
-I am currently a freshman in my second semester majoring in Computer Science at Delaware State University.
+I am currently a sophomore majoring in Computer Science at Delaware State University.
 
 I am learning Object Orientated Programming for Java along with learning Python.
 
