@@ -5,7 +5,7 @@ I am currently a sophomore majoring in Computer Science at Delaware State Univer
 
 I am learning Object Orientated Programming in Java and Python along with Data Structures.
 
-A fun fact about me is that the first programming language I played around with as a kid was Scratch.
+Check out my pinned repos!
 
 
 # 💻 Tech Stack:
