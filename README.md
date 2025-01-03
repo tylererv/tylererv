@@ -5,7 +5,7 @@ I am currently a sophomore majoring in Computer Science at Delaware State Univer
 
 I am learning Object Orientated Programming in Java and Python along with Data Structures.
 
-Check out my pinned repos!
+Check out my pinned repos down bellow!
 
 
 # 💻 Tech Stack:
