@@ -3,7 +3,7 @@ My name is Tyler Ervin and I am a Delaware native.
 
 I am currently a sophomore majoring in Computer Science at Delaware State University.
 
-I am learning Object Orientated Programming in Java and Python along with Data Structures.
+Learning Java, Python, and important Data Structures and am eager to learn more.
 
 Check out my pinned repos down bellow!
 
